@@ -93,7 +93,7 @@ analytics:
 # Site Author
 author:
   name             : "Victor H. González"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.png"
   bio              : "Recent MSc graduate interested in spintronics and neuromorphic computing. Philosophy, history and good liquor are just side hustles.."
   location         : "Bogotá, Colombia"
   email            :
