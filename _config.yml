@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 locale                   : "es-CO"
 title                    : "¿Alguien trajo guaro?"
 title_separator          : "|"
-subtitle                 : "Muy pocas buenas historias han comenzado con un vaso de leche. Few good stories have started with a glass of milk"
+subtitle                 : "Muy pocas buenas historias han comenzado con un vaso de leche <br> Few good stories have started with a glass of milk"
 name                     : "Victor H. González"
 description              : "Un blog personal de ciencia, epistemología y anecdotas  misceláneas. Abrimos los domingos."
 url                      : "https://akravasthewise.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"	
