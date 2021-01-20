@@ -1,2 +1,2 @@
 <body class="layout--single">
-# Sobre mí
+title : Sobre mí
