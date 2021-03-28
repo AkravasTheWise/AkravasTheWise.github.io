@@ -1,0 +1,22 @@
+---
+title : "¡Feliz día Pi!"
+layout : single
+author_profile : true
+---
+Acabo de ver la fecha y me di cuenta del trascendental día que sólo llega una vez al año. Es insual que tengamos un día para celebrar un número irracional como algún tipo
+de civilización futurista de un sueño febril Vernesco. Tal vez estamos en el proceso de convertirnos en esos seres superiores e inescrutables de *Una Odisea Espacial* o *Contacto*.
+
+Entre todo el caos del mundo moderno y las visiones apocalípticas a los que se adhiere el discurso mediático convencional, quiero que este blog sea un espacio menos deprimente.
+Ahora que los diferentes países han comenzado a fortalecer sus procesos de vacunación, la luz al final del túnel es visible. Mantengámonos ahí, en el consuelo de las maravillas
+de nuestra era moderna. Posiblemente una descripción de nuestra civilización, que puede comunicarse a la velocidad de la luz y halló una cura a una enfermedad letal en menos de un
+año, sonaría fantástica e incluso alienígena hace únicamente doscientos años cuando las semillas de los célebres "canales en Marte" estaban comenzando a ser plantadas.
+
+De la misma manera, esta inusual celebración me recuerda sobre los peligros y consecuencias de la obsesión. La obsesión con tener la razón, con la lógica, con saber, con el pozo
+interminable de la página principal de nuestra red social de predilección. A veces es mejor saber qué saber y que no. Igual que un Victor de cara lampiña y mirada inocente vio
+por primera vez el clásico absoluto de **Pi: el orden del caos**, una película sobre obsesión matemática, en su primer semestre de universidad; cualquiera de nosotros puede perder
+la cabeza con demasiado acceso a la información sin considerar la calidad de la misma.  
+
+Este catorce de Marzo, lo celebraré viendo de nuevo **&pi;** en Netflix. 
+
+### ¡Feliz día de celebración irracional futurista!
+![Póster de Pi](https://upload.wikimedia.org/wikipedia/en/5/5a/Piposter.jpg)
