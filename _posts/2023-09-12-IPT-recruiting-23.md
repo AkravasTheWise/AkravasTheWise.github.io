@@ -20,7 +20,7 @@ If you let water flow in a maze you end up with a physical maze-solving algorith
 
 # What do I need to know?
 
-As a general requirement, you should be a bachelors or masters student at Chalmers or GU accepted to a physics or engineering physics program. That said, feel free to apply if you are enthusiastic about the tournament and think you can bring another perspective to the table.
+As a general requirement, you should be a bachelors or masters student at Chalmers or GU accepted to a physics or engineering program. That said, feel free to apply if you are enthusiastic about the tournament and think you can bring another perspective to the table.
 
 No specific seniority or prior experience is mandated—you'll gain ample knowledge as you delve deep into the problems. If physics excites you and you're keen on acquainting yourself with the methodologies and cognitive processes characteristic of scientists, I'm here to guide you through any required concepts.
 
@@ -35,4 +35,4 @@ In order to apply, you must send me a short pre-study report on one of the probl
 
 In your report, outline your initial reactions to the problem. Pose these questions: How would you go about it? Are there relevant equations or principles to consider? Can you conceive an experimental setup to systematically change the variables of the phenomenon??
 
-**Deadline:** The report must be written in english and emailed to me in pdf format by **Wednesday September 27th at 23:59**
+**Deadline:** The report must be written in english and [emailed to me](mailto:vhgonzalezsa@gmail.com) in pdf format by **Wednesday September 27th at 23:59**
