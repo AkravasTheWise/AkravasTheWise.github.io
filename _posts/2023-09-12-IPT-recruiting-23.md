@@ -27,11 +27,11 @@ No specific seniority or prior experience is mandated—you'll gain ample knowle
 # How do I apply?
 
 In order to apply, you must send me a short pre-study report on one of the problems of the [IPT 2024 list](https://iptnet.info/wp-content/uploads/2023/09/problem-list24.pdf). You can choose between the following: 
-`&nbsp;1.` Galton Board 
-`&nbsp;2.` Jumpy hoop 
-`&nbsp;6.` Salty shapes 
-`&nbsp;4.` Alcohol soundcheck 
-`&nbsp;10.` Bubbles under a wet glass
+* Galton Board 
+* Jumpy hoop 
+* Salty shapes 
+* Alcohol soundcheck 
+* Bubbles under a wet glass
 
 In your report, outline your initial reactions to the problem. Pose these questions: How would you go about it? Are there pertinent equations or principles to consider? Can you conceive an experimental setup to systematically change the variables of the phenomenon??
 
