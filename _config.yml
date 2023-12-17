@@ -106,7 +106,7 @@ author:
       # url: "https://your-website.com"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
-       url: "https://scholar.vhgonzalez.com/"
+      url: "https://scholar.vhgonzalez.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AkravasTheWise/"
