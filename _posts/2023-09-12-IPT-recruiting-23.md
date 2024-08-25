@@ -7,7 +7,7 @@ author_profile : true
 
 Have you ever wondered how physical models are created? Why are equations formulated the way they are? What do these relationships reveal about everyday phenomena? If these questions intrigue you, the IPT is just for you!
 # What is the IPT?
-The International Physicists Tournament, or IPT for short, is a global competition for physics and engineering students. It seeks to hone theoretical and experimental analytical skills through the exploration of 17 open-ended problems. Over a span of six months, participants will design, build, test, and analyze the systems proposed in these challenges, culminating in a presentation at ETH in Zurich the following spring.
+The International Physicists Tournament, or IPT for short, is a global competition for physics and engineering students. It seeks to hone theoretical and experimental analytical skills through the exploration of 17 open-ended problems. Over a span of six months, participants will design, build, test, and analyze the systems proposed in these challenges, culminating in a presentation at Warsaw, Poland the following spring.
 
 IPT's problems are framed to be easily comprehensible, yet they demand creativity and a robust grasp of physics for resolution. An added perk? You earn credits that can be applied toward your engineering physics or physics degree. Check out our syllabus [right here](../assets/IPT_course_syllabus.pdf).
 
