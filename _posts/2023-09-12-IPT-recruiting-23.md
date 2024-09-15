@@ -11,12 +11,14 @@ The International Physicists Tournament, or IPT for short, is a global competiti
 
 IPT's problems are framed to be easily comprehensible, yet they demand creativity and a robust grasp of physics for resolution. An added perk? You earn credits that can be applied toward your engineering physics or physics degree. Check out our syllabus [right here](../assets/IPT_course_syllabus.pdf).
 
-[![IPT Chalmers team from 2023](https://img.youtube.com/vi/kD28edrq_dY/0.jpg)](https://www.youtube.com/watch?v=kD28edrq_dY)
-## A sample IPT problem
-**Smart water**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kD28edrq_dY?si=GdP843nQ9DkJ6LVp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-If you let water flow in a maze you end up with a physical maze-solving algorithm. Many other algorithms and computations can be done with physical systems. Create a water-based computer (without electronics) that solves an NP-hard problem.
-[![Smart water](https://img.youtube.com/vi/81ebWToAnvA/0.jpg)](https://www.youtube.com/watch?v=81ebWToAnvA)
+## A sample IPT problem
+**Kelvin Dropper**
+
+A reservoir containing a conducting liquid is connected to two hoses that release two falling streams of drops, which land in two containers. Each stream passes through a metal ring or open cylinder which is electrically connected to the opposite receiving container. After a while, a spark may be observed between two conducting rods connected to the setup. Use this setup as an electrical generator. Investigate and optimize its power efficiency.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rv4MjaF_wow?si=JBluPDYosJk3Kub7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # What do I need to know?
 
@@ -28,11 +30,11 @@ No specific seniority or prior experience is mandated—you'll gain ample knowle
 
 In order to apply, you must send me a short pre-study report on one of the problems of the [IPT problem list](https://iptnet.info/problems/). You can choose among the following problems:
 
-4. Traveling Flame  
-6. An Optimal Candle
-11. Soft Rescuer
-10. Rotating Ring
-14. Loud Bicycle 
+    4. Traveling Flame  
+    6. An Optimal Candle
+    10. Rotating Ring
+    11. Soft Rescuer
+    14. Loud Bicycle 
 
 In your report, outline your initial reactions to the problem. Pose these questions: How would you go about it? Are there relevant equations or principles to consider? Can you conceive an experimental setup to systematically change the variables of the phenomenon??
 
