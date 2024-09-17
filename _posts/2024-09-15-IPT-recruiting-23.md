@@ -3,6 +3,9 @@ title : "The IPT is looking for phycisists"
 layout : single
 author_profile : true
 ---
+# **Lunch seminar**
+We will have a lunch seminar on September 23rd at 11:50 in room FB of building Fysik Örigo. We will give a presentation on the tournament, the associated course and answer any questions you might have.
+
 ![What they never tell you during undergrad](../assets/images/physics-hardness-meme.jpg)
 
 Have you ever wondered how physical models are created? Why are equations formulated the way they are? What do these relationships reveal about everyday phenomena? If these questions intrigue you, the IPT is just for you!
