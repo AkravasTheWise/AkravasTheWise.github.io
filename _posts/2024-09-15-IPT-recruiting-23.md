@@ -41,4 +41,4 @@ In order to apply, you must send me a short pre-study report on one of the probl
 
 In your report, outline your initial reactions to the problem. Pose these questions: How would you go about it? Are there relevant equations or principles to consider? Can you conceive an experimental setup to systematically change the variables of the phenomenon??
 
-**Deadline:** The report must be written in english and [emailed to me](mailto:vhgonzalezsa@gmail.com) in pdf format by **Wednesday October 2nd at 23:59**
+**Deadline:** The report must be written in english and [emailed to me](mailto:victor.gonzalez@physics.gu.se) in pdf format by **Wednesday October 2nd at 23:59**
