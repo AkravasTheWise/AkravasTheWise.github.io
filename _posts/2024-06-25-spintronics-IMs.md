@@ -2,6 +2,7 @@
 title : "Paper summary: Spintronic devices as next-generation computation accelerators"
 layout : single
 author_profile : true
+tags: paper-summary
 ---
 In this blog post, I’d like to walk you through the key points of our recent review article titled **"Spintronic devices as next-generation computation accelerators."** This paper delves into the growing field of spintronics and its potential to revolutionize how we approach computational challenges, particularly through **Ising machines** and **neuromorphic computing**. With silicon-based technologies nearing their limits, spintronics offers an exciting alternative that could pave the way for more energy-efficient, scalable, and powerful computing systems.
 
