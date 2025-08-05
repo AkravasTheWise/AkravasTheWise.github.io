@@ -27,8 +27,8 @@ The ability to control the phase of synchronization is a fundamental building bl
 
 This research opens a new chapter in designing computing hardware at the nanoscale. We've shown it's possible to control these tiny oscillators, and the next step is to scale up, building larger networks that can tackle real-world computational problems.
 
-If you're interested in the technical details behind this discovery, you can read our full paper, it's open access and can be found at this link: <a href="http://www.akermanlab.com/" target="_blank">*Spin-wave-mediated mutual synchronization and phase tuning in spin Hall nano-oscillators*</a>. We welcome your questions and thoughts in the comments below!
-
+If you're interested in the technical details behind this discovery, you can read our full paper, it's open access and can be found at this link: <a href="https://www.nature.com/articles/s41567-024-02728-1" target="_blank">*Spin-wave-mediated mutual synchronization and phase tuning in spin Hall nano-oscillators*</a>. We welcome your questions and thoughts in the comments below!
+<>
 ***
 
 *Disclaimer: This summary was generated with the assistance of an AI. The text has been reviewed and edited by me.*
