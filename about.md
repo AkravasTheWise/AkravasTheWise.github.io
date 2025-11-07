@@ -8,7 +8,7 @@ Soy un físico en el Grupo de Fluidos Cuánticos y Computación Física en la Un
 
 Creé este blog principalmente para mi familia y amigos porque mis padres me reclamaron el hecho que no les haya mandado fotografías de una pasantía de verano que hice en París y quería experimentar un poco con el hospedaje gratis de Github y el compilador <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>. Aunque hace algún tiempo que no escribo sobre temas fuera del ámbito científico, fui publicado en el concurso literario Ramón de Zubiría de la Universidad de Los Andes, supongo mis divagaciones deben tener algún atractivo. Además de viajes, quiero escribir sobre mis pasatiempos: los juegos de rol, las aventuras mundanas, las corrientes filosóficas que se encuentran al fondo de una pinta, y la ocasional composición original para crítica y disfrute. 
 
-## Press 2 for English
+### Press 2 for English
 
 I'm a physicist in the Quantum Fluids and Physics-based Computing Group at the University of Cambridge. I am interested in complex matter, condensate physics, information theory, complex systems, nanomagnetism and condensed matter physics for neuromorphic computing hardware. For obvious reasons, I read a fair amount of science fiction and epistemology, but I'm also interested in historical novels, folklore and mythological collections, the occasional detective novel, and the magnificent latinamerican prose of the late 20th century, which I was behind on even before I was born.
 
