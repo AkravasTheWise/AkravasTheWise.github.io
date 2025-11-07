@@ -94,8 +94,8 @@ analytics:
 author:
   name             : "Victor H. González"
   avatar           : "/assets/images/avatar.png"
-  bio              : "Posdoctoral fellow in spintronics and neuromorphic computing // Investigador postdoctoral en espintrónica y computación neuromórfica. La filosofía, historia y el buen licor sólo son valor agregado."
-  location         : "Gotemburgo, Suecia"
+  bio              : "Research Associate in physics-based and neuromorphic computing // Investigador associado en computación física y neuromórfica."
+  location         : "Cambridge, UK"
   email            :
   links:
     - label: "Email"
@@ -110,10 +110,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AkravasTheWise/"
-    - label: "ResearchGate"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-
+    
 # Site Footer
 footer:
   links:
