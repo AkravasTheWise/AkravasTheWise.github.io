@@ -3,8 +3,6 @@ title : "A transitional view of unconventional computing"
 layout : single
 author_profile : true
 ---
-*This post originally appeared in the Heisingberg consortium's [blog](https://www.heisingberg.eu/2026/02/24/a-transitional-view-of-unconventional-computing/)*
-
 Interesting problems lie at transitions. In complex systems such as the climate, the stock market, the power grid and artificial neural networks, understanding of their stability, disorder and transitions has fueled incredible intellectual and societal progress. The ability to make predictions over complex systems using has allowed us both to understand the natural world, and to create trust in complicated structures with thousands (or even millions) of moving parts. So, it was without hesitation that I took the opportunity to work on such systems and went through a transition of my own.
 
 It has been three months since I arrived at the University of Cambridge to join Prof. Natalia Berloff's group, and I can say that I am excited by the directions of our work within the Heisingberg consortium and beyond. Even though I work for the Faculty of Mathematics now, my background is in computational physics. In my PhD dissertation, we constructed and analysed Ising machines using nanoscopic magnetic oscillators; so my new post might look like a small professional transition. But learning about the mathematical properties behind the evolution of these systems and the theory of spin glasses has opened my horizon to the myriad of open questions that still remain after decades of study into complex systems. Furthermore, mathematics can provide insight and guide further progress into a class of Ising machines that has reshaped our current economic and societal landscapes: artificial neural networks (ANNs).
@@ -32,3 +30,6 @@ Questions abound and the lively discussions with our partners always present me 
 ![Equivalence between network transitions and energy minimization](../assets/images/network_and_free_energy.gif)
 
 *A network transition (left) can be thought of as an energy minimization (right) of tbe free energy of the system. We study such mechanisms in the Heisingberg consortium.*
+
+**This post originally appeared in the Heisingberg consortium's [blog](https://www.heisingberg.eu/2026/02/24/a-transitional-view-of-unconventional-computing/).** Check it out for more news and essays in cutting-edge Ising machine research.
+
