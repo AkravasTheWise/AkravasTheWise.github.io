@@ -8,7 +8,7 @@ Thank you for attending my talk. The links for the articles I mentioned in the p
 
 ## [Spintronic devices as next-generation computation accelerators](https://doi.org/10.1016/j.cossms.2024.101173)
 
-[Gradient descent in an Ising machine](../assets/images/GD.svg)
+[Gradient descent in an Ising machine](../assets/images/GD.png)
 
 This paper was the basis for the talk, and it is an opinionated review of the current and future directions of spintronic platforms. We propose the distinction of spatially-resolved and time-multiplexed Ising machines, and discuss the differences between the two architectures. We also analyse critical aspects of network control and operational constraints of current systems with the intent of promoting interdisciplinary collaboration and hardware-algorithm co-design. 
 
@@ -40,7 +40,7 @@ We link these nonlinearities with actual properties of electrical circuits, and 
 
 This is the demonstration of the world's first spinwave Ising machine (SWIM), a time-multiplexed IM that uses spin wave packets propagating in a YIG delay line to construct the artificial spin state. Using phase sensitive amplification, we binarize the phase of the oscillators and induce analogue negative coupling using an additional delay element. We show that the 4 and 8 artificial spins in a chain change their phase to reach the antiparallel ground state. 
 
-![SWIM](../assets/images/the-temporal-part.svg)
+![SWIM](../assets/images/swim-graph.png)
 
 This realization shows the potential of magnonic films as memory elements for IMs and paves the way for delay line engineering as an alternative for exciting larger numbers of oscillators in SWIMs.
 
