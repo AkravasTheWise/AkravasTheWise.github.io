@@ -8,7 +8,7 @@ Thank you for attending my talk. The links for the articles I mentioned in the p
 
 ## [Spintronic devices as next-generation computation accelerators](https://doi.org/10.1016/j.cossms.2024.101173)
 
-[Gradient descent in an Ising machine](../assets/images/GD.png)
+![Gradient descent in an Ising machine](../assets/images/GD.png)
 
 This paper was the basis for the talk, and it is an opinionated review of the current and future directions of spintronic platforms. We propose the distinction of spatially-resolved and time-multiplexed Ising machines, and discuss the differences between the two architectures. We also analyse critical aspects of network control and operational constraints of current systems with the intent of promoting interdisciplinary collaboration and hardware-algorithm co-design. 
 
