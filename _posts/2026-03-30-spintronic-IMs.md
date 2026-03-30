@@ -1,10 +1,10 @@
 ---
-title : "Links for Let the Physics Do the Maths"
+title : "Let the Physics Do the Maths companion links"
 layout : single
 author_profile : true
 ---
 
-Thank you for attending my talk. The links for the articles I mentioned in the presentation are below, along with bite-sized descriptions of what we achieved in each one. If you would like to discuss further, you can approach me during the conference, email me at: [vhg23.cam.ac.uk](mailto:vhg23@cam.ac.uk) or connect with me on [LinkedIn](https://www.linkedin.com/in/victor-h-gonz%C3%A1lez-129023a1/).
+Thank you for attending my talk. You can access links for the articles in my presentation by clicking on the titles below. Each section also contains bite-sized descriptions of what we achieved in each paper. If you would like to discuss further, you can approach me during the conference, email me at: [vhg23.cam.ac.uk](mailto:vhg23@cam.ac.uk) or connect with me on [LinkedIn](https://www.linkedin.com/in/victor-h-gonz%C3%A1lez-129023a1/).
 
 ## [Spintronic devices as next-generation computation accelerators](https://doi.org/10.1016/j.cossms.2024.101173)
 
