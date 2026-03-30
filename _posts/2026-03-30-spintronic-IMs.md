@@ -6,7 +6,7 @@ author_profile : true
 
 Thank you for attending my talk. The links for the articles I mentioned in the presentation are below, along with bite-sized descriptions of what we achieved in each one. If you would like to discuss further, you can approach me during the conference, email me at: [vhg23.cam.ac.uk](mailto:vhg23@cam.ac.uk) or connect with me on [LinkedIn](https://www.linkedin.com/in/victor-h-gonz%C3%A1lez-129023a1/).
 
-## [Spintronic devices as next-generation computation accelerators](https://doi.org/10.1016/j.cossms.2024.101173)
+## [Spintronic devices as next-generation computation accelerators](https://doi.org/10.1016/j.cossms.2024.101173){:target="_blank"}
 
 ![Gradient descent in an Ising machine](../assets/images/GD.png)
 
