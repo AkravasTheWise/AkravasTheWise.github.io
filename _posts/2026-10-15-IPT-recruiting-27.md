@@ -10,7 +10,7 @@ The International Physicists' Tournament (IPT) is a global competition for maths
 
 IPT problems are framed to be easily comprehensible, yet they are challenging, often requiring creativity, resourcefulness and a robust grasp of physics to solve.
 
-## An IPT problem from the upcoming IPT
+## A problem from the upcoming IPT
 **Ice ice cubey**
 
 Pouring water down on ice cubes can sometimes create a peculiar cracking sound. Why and when do ice cubes crack? How does the sound depend on the ice and water temperatures? What shape of ice produces the loudest cracks?
@@ -20,11 +20,11 @@ Pouring water down on ice cubes can sometimes create a peculiar cracking sound. 
 
 As a general requirement, you should be an undergraduate or masters student in a maths, physics or engineering program. That said, feel free to apply if you are enthusiastic about the tournament and think you can bring another perspective to the table.
 
-No specific seniority or prior experience is needed as you'll acquire the knowledge required as you tackle the problems. If physics excites you and you're keen on acquainting yourself with research methods via hands-on experimentation, I'm here to guide you through any required concepts.
+No specific seniority is needed as you'll learn new concepts and methodologies as you solve the problems. If physics excites you and you're keen on acquainting yourself with research methods via hands-on experimentation, I'm here to guide you.
 
 # How do I apply?
 
-In order to apply, you must send me a short pre-study (one page long) report on one of the problems of the [IPT problem list](https://ipt.science/problems/). You can choose among the following problems:
+To apply, you must send me a short pre-study (one page long) report on one of the problems of the [IPT problem list](https://ipt.science/problems/). You can choose among the following problems:
 
     1. The Magnetic Hourglass  
     8. Macroscopic Quasiparticles
@@ -34,4 +34,4 @@ In order to apply, you must send me a short pre-study (one page long) report on 
 
 In your report, outline your initial approach to the problem. Pose these questions: What process would you follow to solve it? Are there relevant equations or principles to consider? Can you conceive an experimental setup to systematically change the variables of the phenomenon??
 
-Email me the pre-study: [vhg23@cam.ac.uk](mailto:vhg23@cam.ac.uk). I will evaluate applications in a rolling basis until we fill out the six person team.
+Email me the pre-study: [vhg23@cam.ac.uk](mailto:vhg23@cam.ac.uk). I will evaluate applications on a rolling basis until we fill out the six person team.
