@@ -1,5 +1,5 @@
 ---
-title : "The IPT is looking for phycisists"
+title : "The IPT is looking for physicists"
 layout : single
 author_profile : true
 ---
