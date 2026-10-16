@@ -34,4 +34,4 @@ To apply, you must send me a short pre-study (one page long) report on one of th
 
 In your report, outline your initial approach to the problem. Pose these questions: What process would you follow to solve it? Are there relevant equations or principles to consider? Can you conceive an experimental setup to systematically change the variables of the phenomenon??
 
-Email me the pre-study: [vhg23@cam.ac.uk](mailto:vhg23@cam.ac.uk). I will evaluate applications on a rolling basis until we fill out the six person team.
+Email me the pre-study: [vhg23@cam.ac.uk](mailto:vhg23@cam.ac.uk). I will evaluate applications on a rolling basis until we fill the six person team.
